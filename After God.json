@@ -658,27 +658,15 @@
       "volume": "3",
       "last_updated": "1655132400",
       "groups": {
-        "": [
-          "https://i.imgur.com/zwAdqEQ.png",
-          "https://i.imgur.com/enrG3M4.png",
-          "https://i.imgur.com/KbN89oT.png",
-          "https://i.imgur.com/v9KKlc8.png",
-          "https://i.imgur.com/pqyrQmg.png",
-          "https://i.imgur.com/H18h9fs.png",
-          "https://i.imgur.com/APc9f8O.png",
-          "https://i.imgur.com/UySoyBx.png",
-          "https://i.imgur.com/wyVc1yW.png",
-          "https://i.imgur.com/qO80zce.png",
-          "https://i.imgur.com/pU81dJ7.png",
-          "https://i.imgur.com/wz19WgX.png",
-          "https://i.imgur.com/JMTbfpp.png",
-          "https://i.imgur.com/xoBm1nB.png",
-          "https://i.imgur.com/0oUbbwh.png",
-          "https://i.imgur.com/cywIZsJ.png",
-          "https://i.imgur.com/cgCWJGm.png",
-          "https://i.imgur.com/sPVeDIz.png",
-          "https://i.imgur.com/uL1kjmI.png"
-        ]
+        "": "/proxy/api/imgur/chapter/rRS5Re9"
+      }
+    },
+    "22": {
+      "title": "Punishment",
+      "volume": "3",
+      "last_updated": "1656342000",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/uhRacsy"
       }
     }
   }
