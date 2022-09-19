@@ -199,7 +199,7 @@
     },
     "25": {
       "title": "Human Sacrifice",
-      "volume": "3",
+      "volume": "4",
       "last_updated": "1661180400",
       "groups": {
         "": "/proxy/api/imgur/chapter/SYQQp1U"
@@ -207,10 +207,18 @@
     },
     "26": {
       "title": "Struggle for Existence",
-      "volume": "3",
+      "volume": "4",
       "last_updated": "1662390000",
       "groups": {
         "": "/proxy/api/imgur/chapter/POaYf52"
+      }
+    },
+    "27": {
+      "title": "Love and Drugs",
+      "volume": "4",
+      "last_updated": "1663599600",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LoTYtHE"
       }
     }
   }
