@@ -271,10 +271,18 @@
     },
     "34": {
       "title": "First Love",
-      "volume": "4",
+      "volume": "5",
       "last_updated": "1673276400",
       "groups": {
         "": "/proxy/api/imgur/chapter/IN1dTus"
+      }
+    },
+    "35": {
+      "title": "Feelings of a God",
+      "volume": "5",
+      "last_updated": "1674486000",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/4ZyAWQD"
       }
     }
   }
