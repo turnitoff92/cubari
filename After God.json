@@ -266,7 +266,7 @@
       "volume": "4",
       "last_updated": "1672066800",
       "groups": {
-        "": "/proxy/api/imgur/chapter/ynnEIBQ"
+        "": "/proxy/api/imgur/chapter/jDIUA4S"
       }
     },
     "34": {
@@ -274,7 +274,7 @@
       "volume": "5",
       "last_updated": "1673276400",
       "groups": {
-        "": "/proxy/api/imgur/chapter/IN1dTus"
+        "": "/proxy/api/imgur/chapter/KRjGhCV"
       }
     },
     "35": {
@@ -282,7 +282,7 @@
       "volume": "5",
       "last_updated": "1674486000",
       "groups": {
-        "": "/proxy/api/imgur/chapter/4ZyAWQD"
+        "": "/proxy/api/imgur/chapter/AeFVrU1"
       }
     },
     "36": {
@@ -290,7 +290,7 @@
       "volume": "5",
       "last_updated": "1675695600",
       "groups": {
-        "": "/proxy/api/imgur/chapter/QrSvzTj"
+        "": "/proxy/api/imgur/chapter/3R42Awl"
       }
     },
     "37": {
@@ -298,7 +298,7 @@
       "volume": "5",
       "last_updated": "1676905200",
       "groups": {
-        "": "/proxy/api/imgur/chapter/gFWYe8Q"
+        "": "/proxy/api/imgur/chapter/xKr156H"
       }
     },
     "38": {
@@ -306,7 +306,7 @@
       "volume": "5",
       "last_updated": "1678114800",
       "groups": {
-        "": "/proxy/api/imgur/chapter/E7o1SJE"
+        "": "/proxy/api/imgur/chapter/knpmJSR"
       }
     },
     "39": {
@@ -314,7 +314,15 @@
       "volume": "5",
       "last_updated": "1679324400",
       "groups": {
-        "": "/proxy/api/imgur/chapter/R3ouXqg"
+        "": "/proxy/api/imgur/chapter/hvJ9KId"
+      }
+    },
+    "40": {
+      "title": "Blooming",
+      "volume": "5",
+      "last_updated": "1680447600",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KPSiYV9"
       }
     }
   }
