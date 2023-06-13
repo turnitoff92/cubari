@@ -328,9 +328,17 @@
     "41": {
       "title": "Dream Mansion",
       "volume": "5",
-      "last_updated": "1681657200",
+      "last_updated": "1682953200",
       "groups": {
         "": "/proxy/api/imgur/chapter/xUHl8nA"
+      }
+    },
+    "42": {
+      "title": "Reason for Going",
+      "volume": "5",
+      "last_updated": "1685372400",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/gpc3w1H"
       }
     }
   }
